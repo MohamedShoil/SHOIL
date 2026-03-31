@@ -6,7 +6,7 @@
 <h1>Hi, I'm Mohamed Ibrahim 👋</h1>
 <p><strong>Back-end .NET Developer | C++ & Python Enthusiast</strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0078D4&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=MohamedShoil&style=flat&color=0078D4&label=PROFILE+VIEWS)
 </div>
 
 <hr></hr>
